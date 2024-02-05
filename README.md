@@ -108,3 +108,11 @@ EOF  help  quit
 (hbnb) 
 $
 ```
+
+## **All tests should also pass in non-interactive mode:**
+
+```Python
+echo "python3 -m unittest discover tests" | bash
+```
+
+![alt text](image-1.png)
