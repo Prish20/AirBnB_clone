@@ -71,7 +71,8 @@ Remove or destroy objects when they are no longer needed. This can involve delet
 
 The shell works like this in interactive mode:
 
-```$ ./console.py
+```Python
+$ ./console.py
 (hbnb) help
 
 Documented commands (type help <topic>):
@@ -86,7 +87,8 @@ $
 
 But also in non-interactive mode: (like the Shell project in C)
 
-```$ echo "help" | ./console.py
+```Python
+$ echo "help" | ./console.py
 (hbnb)
 
 Documented commands (type help <topic>):
