@@ -2,9 +2,11 @@
 import cmd
 from models.base_model import BaseModel
 from models import storage
+from models.user import User
 
 CLASSES = {
-    "BaseModel": BaseModel
+    "BaseModel": BaseModel,
+    "User": User
 }
 
 """This is the console module"""

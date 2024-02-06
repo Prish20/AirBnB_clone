@@ -23,5 +23,67 @@
     "created_at": "2024-02-06T20:21:32.180626",
     "updated_at": "2024-02-06T20:21:32.180665",
     "__class__": "BaseModel"
+  },
+  "User.eca2a03f-13fe-4504-ba0a-75ea1be719b2": {
+    "id": "eca2a03f-13fe-4504-ba0a-75ea1be719b2",
+    "created_at": "2024-02-06T21:28:24.190825",
+    "updated_at": "2024-02-06T21:28:24.190906",
+    "first_name": "Betty",
+    "last_name": "Bar",
+    "email": "airbnb@mail.com",
+    "password": "root",
+    "__class__": "User"
+  },
+  "User.b6e04df0-2c43-47e2-8aa9-7ef42264024c": {
+    "id": "b6e04df0-2c43-47e2-8aa9-7ef42264024c",
+    "created_at": "2024-02-06T21:28:24.192202",
+    "updated_at": "2024-02-06T21:28:24.192212",
+    "first_name": "John",
+    "email": "airbnb2@mail.com",
+    "password": "root",
+    "__class__": "User"
+  },
+  "User.06e2f8bb-8510-46db-994a-7e1f9bbf39da": {
+    "id": "06e2f8bb-8510-46db-994a-7e1f9bbf39da",
+    "created_at": "2024-02-06T21:31:12.599134",
+    "updated_at": "2024-02-06T21:31:12.599169",
+    "first_name": "Betty",
+    "last_name": "Bar",
+    "email": "airbnb@mail.com",
+    "password": "root",
+    "__class__": "User"
+  },
+  "User.ef1da5df-1e26-4127-8f80-831177112f49": {
+    "id": "ef1da5df-1e26-4127-8f80-831177112f49",
+    "created_at": "2024-02-06T21:31:12.601769",
+    "updated_at": "2024-02-06T21:31:12.601777",
+    "first_name": "John",
+    "email": "airbnb2@mail.com",
+    "password": "root",
+    "__class__": "User"
+  },
+  "BaseModel.5893e3dc-6b72-4f4d-a8ad-f4b741de6144": {
+    "id": "5893e3dc-6b72-4f4d-a8ad-f4b741de6144",
+    "created_at": "2024-02-06T22:00:35.109119",
+    "updated_at": "2024-02-06T22:00:35.109132",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.a6ee6e10-4c68-45cb-bc7a-12cd53e19382": {
+    "id": "a6ee6e10-4c68-45cb-bc7a-12cd53e19382",
+    "created_at": "2024-02-06T22:00:35.109353",
+    "updated_at": "2024-02-06T22:00:35.109561",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.428ea437-9ce7-4f8a-b3a6-4b33523b37ba": {
+    "id": "428ea437-9ce7-4f8a-b3a6-4b33523b37ba",
+    "created_at": "2024-02-06T22:01:44.687893",
+    "updated_at": "2024-02-06T22:01:44.687898",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.e2e1fc51-4f6e-4e52-b1ad-2f8a00ccd8c5": {
+    "id": "e2e1fc51-4f6e-4e52-b1ad-2f8a00ccd8c5",
+    "created_at": "2024-02-06T22:01:44.688107",
+    "updated_at": "2024-02-06T22:01:44.688121",
+    "__class__": "BaseModel"
   }
 }
